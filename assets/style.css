@@ -21,11 +21,17 @@ p {
   display: inline-flex;
   color: white;
   background-color: #364758;
+  text-decoration: none;
+}
+.indice a {
+  color: white;
+  text-decoration: none;
 }
 .indice span {
   padding: 5px 10px;
 }
 .giftcard {
+  padding: 10px;
   margin: 20px;
   color: white;
   background-color: orangered;
@@ -68,6 +74,9 @@ p {
   font-size: 16px;
   color: #0073e6;
 }
+.choicess p {
+  text-decoration: none;
+}
 .choicesi {
   position: relative;
   width: 100%;
@@ -99,6 +108,9 @@ p {
   display: flex;
   justify-content: center;
   gap: 10px;
+}
+.tav a {
+  text-decoration: none;
 }
 .ifooter {
   text-align: center;
